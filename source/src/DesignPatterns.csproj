@@ -8,4 +8,8 @@
 	<StartupObject>DesignPatterns.Singleton.Program</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestFramework" Version="3.9.2" />
+  </ItemGroup>
+
 </Project>
