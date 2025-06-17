@@ -1,6 +1,6 @@
 # Design Pattern: Observer
 
-## Beispiel: Online-Shop mit Warenkorb
+## Online-Shop mit Warenkorb
 
 In diesem Beispiel wird das Observer-Pattern verwendet, um ein Online-Shop-Szenario zu simulieren. Der `Cart` fungiert als Subject und benachrichtigt Observer, wenn sich der Warenkorb ändert.
 
